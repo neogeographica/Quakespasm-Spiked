@@ -1,0 +1,7 @@
+*.swp
+quakespasm/Linux/CodeBlocks/bin/
+quakespasm/Linux/CodeBlocks/obj/
+quakespasm/Linux/CodeBlocks/*.depend
+quakespasm/Linux/CodeBlocks/*.layout
+quakespasm/Quake/quakespasm
+quakespasm/Quake/*.o
